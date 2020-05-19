@@ -1,0 +1,10 @@
+C:\Users\Соня\source\repos\vchmat6\vchmat6\bin\Debug\vchmat6.exe.config
+C:\Users\Соня\source\repos\vchmat6\vchmat6\bin\Debug\vchmat6.exe
+C:\Users\Соня\source\repos\vchmat6\vchmat6\bin\Debug\vchmat6.pdb
+C:\Users\Соня\source\repos\vchmat6\vchmat6\obj\Debug\vchmat6.csprojAssemblyReference.cache
+C:\Users\Соня\source\repos\vchmat6\vchmat6\obj\Debug\vchmat6.Form1.resources
+C:\Users\Соня\source\repos\vchmat6\vchmat6\obj\Debug\vchmat6.Properties.Resources.resources
+C:\Users\Соня\source\repos\vchmat6\vchmat6\obj\Debug\vchmat6.csproj.GenerateResource.cache
+C:\Users\Соня\source\repos\vchmat6\vchmat6\obj\Debug\vchmat6.csproj.CoreCompileInputs.cache
+C:\Users\Соня\source\repos\vchmat6\vchmat6\obj\Debug\vchmat6.exe
+C:\Users\Соня\source\repos\vchmat6\vchmat6\obj\Debug\vchmat6.pdb
